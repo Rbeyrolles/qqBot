@@ -17,19 +17,18 @@ class WaifuFinder:
         self.page = self._get_page_content()
         self._youtuber_name = \
             [
-                '千铃',
-                '夏实萌惠',
-                'poyoyo',
-                '百鬼绫目',
-                '狗妈',
-                '狗狗',
-                '鹿乃',
-                '野野宫',
-                '小东',
-                '花丸',
-                '夸哥',
-                '古守',
-                '乙女音'
+                'Rice Shower',
+                '米浴',
+                'Special Week',
+                'Special weak',
+                '特别渣',
+                '特别周',
+                '变若',
+                '无声铃鹿',
+                '无胸铃鹿',
+                '大和',
+                '雷军',
+                '陈睿'
             ]
 
     def _get_page_content(self) -> str:
